@@ -1,1 +1,1 @@
-ms-windows-store://getgenuinewindows
+explorer.exe ms-windows-store://getgenuinewindows

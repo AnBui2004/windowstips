@@ -1,1 +1,1 @@
-ms-windows-store://pdp?ProductId=9NJHK44TTKSX
+explorer.exe ms-windows-store://pdp?ProductId=9NJHK44TTKSX

@@ -1,1 +1,1 @@
-ms-windows-store://switchwindows
+explorer.exe ms-windows-store://switchwindows

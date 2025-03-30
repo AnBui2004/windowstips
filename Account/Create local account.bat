@@ -1,1 +1,1 @@
-ms-cxh://LOCALONLY
+explorer.exe ms-cxh://LOCALONLY

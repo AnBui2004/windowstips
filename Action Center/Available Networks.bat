@@ -1,1 +1,1 @@
-ms-availablenetworks:///
+explorer.exe ms-availablenetworks:///

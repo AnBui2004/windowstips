@@ -1,1 +1,1 @@
-ms-gamebar://launchforeground/activate/SettingsWidget?categoryId=capturing
+explorer.exe ms-gamebar://launchforeground/activate/SettingsWidget?categoryId=capturing

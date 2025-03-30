@@ -1,1 +1,1 @@
-ms-actioncenter:///
+explorer.exe ms-actioncenter:///

@@ -1,1 +1,1 @@
-ms-gamebar://launchforeground/activate/GalleryWidget
+explorer.exe ms-gamebar://launchforeground/activate/GalleryWidget
