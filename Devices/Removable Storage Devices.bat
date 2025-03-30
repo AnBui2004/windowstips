@@ -1,0 +1,1 @@
+C:\WINDOWS\explorer.exe shell:::{a6482830-08eb-41e2-84c1-73920c2badb9}
