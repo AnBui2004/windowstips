@@ -1,0 +1,1 @@
+ms-gamebar://launchforeground/activate/SettingsWidget?categoryId=capturing
